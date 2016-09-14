@@ -1,4 +1,5 @@
 // My master divide function
+// This gives mod
 
 #include <stdio.h>
 
