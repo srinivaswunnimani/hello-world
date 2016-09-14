@@ -1,4 +1,5 @@
 // My master add file
+// how diff works?
 
 #include <stdio.h>
 
